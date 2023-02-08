@@ -5,7 +5,9 @@ function App() {
 	return (
 		<>
 			<Header />
-			<Card />
+			<main className=" bg-slate-200 py-10">
+				<Card />
+			</main>
 		</>
 	);
 }
